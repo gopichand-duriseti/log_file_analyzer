@@ -1,0 +1,12 @@
+
+2025-12-08 10:15:23 INFO User login attempt from email: gopi123@example.com
+2025-12-08 10:15:24 INFO Mobile number entered: +91 987 6543
+2025-12-08 10:15:25 WARNING Disk space running low on server.
+2025-12-08 10:15:30 ERROR: Unable to fetch user profile from database.
+2025-12-08 10:15:33 DEBUG Checking user permissions...
+2025-12-08 10:16:10 INFO Support team contact: helpdesk@company.org
+2025-12-08 10:16:15 INFO Backup contact number: 040-2345678
+2025-12-08 10:16:20 ERROR: Payment gateway connection timeout.
+2025-12-08 10:16:45 INFO System reboot scheduled.
+2025-12-08 10:17:00 DEBUG Session token refreshed successfully.
+2025-12-08 10:17:15 INFO Developer contact: test.user+dev@gmail.com
