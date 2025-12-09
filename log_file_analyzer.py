@@ -57,7 +57,6 @@ class LogFileAnalyzer:
         except re.error as e:
             return ["Regex error:", e]
 
-    
 filename = input("Enter log file name (e.g., abc.log): ")
 analyzer = LogFileAnalyzer(filename)
 
