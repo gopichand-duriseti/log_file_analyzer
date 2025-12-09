@@ -1,0 +1,10 @@
+SUMMARY REPORT
+
+{'Total Lines': 12, '
+Total Words': 83, 
+'Email Count': 3, 
+'Phone Count': 2, 
+'Errors Count': 2, 
+'Warnings Count': 1, 
+'First Timestamp': '2025-12-08 10:15:23', 
+'Last Timestamp': '2025-12-08 10:17:15'}
